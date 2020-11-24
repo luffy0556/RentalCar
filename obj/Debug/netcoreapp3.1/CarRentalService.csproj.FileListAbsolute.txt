@@ -1,0 +1,13 @@
+C:\Users\luffy\OneDrive\Desktop\OOP\17112020\bin\Debug\netcoreapp3.1\CarRentalService.exe
+C:\Users\luffy\OneDrive\Desktop\OOP\17112020\bin\Debug\netcoreapp3.1\CarRentalService.deps.json
+C:\Users\luffy\OneDrive\Desktop\OOP\17112020\bin\Debug\netcoreapp3.1\CarRentalService.runtimeconfig.json
+C:\Users\luffy\OneDrive\Desktop\OOP\17112020\bin\Debug\netcoreapp3.1\CarRentalService.runtimeconfig.dev.json
+C:\Users\luffy\OneDrive\Desktop\OOP\17112020\bin\Debug\netcoreapp3.1\CarRentalService.dll
+C:\Users\luffy\OneDrive\Desktop\OOP\17112020\bin\Debug\netcoreapp3.1\CarRentalService.pdb
+C:\Users\luffy\OneDrive\Desktop\OOP\17112020\obj\Debug\netcoreapp3.1\CarRentalService.csprojAssemblyReference.cache
+C:\Users\luffy\OneDrive\Desktop\OOP\17112020\obj\Debug\netcoreapp3.1\CarRentalService.AssemblyInfoInputs.cache
+C:\Users\luffy\OneDrive\Desktop\OOP\17112020\obj\Debug\netcoreapp3.1\CarRentalService.AssemblyInfo.cs
+C:\Users\luffy\OneDrive\Desktop\OOP\17112020\obj\Debug\netcoreapp3.1\CarRentalService.csproj.CoreCompileInputs.cache
+C:\Users\luffy\OneDrive\Desktop\OOP\17112020\obj\Debug\netcoreapp3.1\CarRentalService.dll
+C:\Users\luffy\OneDrive\Desktop\OOP\17112020\obj\Debug\netcoreapp3.1\CarRentalService.pdb
+C:\Users\luffy\OneDrive\Desktop\OOP\17112020\obj\Debug\netcoreapp3.1\CarRentalService.genruntimeconfig.cache
